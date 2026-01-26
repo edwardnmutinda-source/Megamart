@@ -1,0 +1,47 @@
+h1{
+   color: rgb(43, 226, 177);
+text-align: center;
+font-size: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: black;
+line-height: 100px;
+text-shadow: 8px 8px 12px rgb(7, 120, 249);
+
+
+
+
+
+
+ }
+
+h1:hover{
+    background-color: crimson;
+color: rgb(145, 13, 207);
+font-style: oblique;
+}
+
+p{
+font-weight: bold;
+font-style: italic;
+
+}
+
+
+
+img{
+width: 299px;
+height: 210px;
+margin-right: 0px;
+margin-top: 10px;
+border-radius: 20000px;
+}
+
+
+img:hover{
+      transform: scale(1.1);   
+    transition: all 0.5s;
+
+}
+
+
+

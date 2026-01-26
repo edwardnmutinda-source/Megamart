@@ -1,0 +1,22 @@
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: bisque;
+    margin: 40px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    vertical-align: middle;
+    margin-left: 490px;
+}
+
+h3{
+    color: chocolate;
+    
+}

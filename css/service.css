@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+font-size: 40px;
+text-decoration: underline;
+
+
+
+}
+#Shipping{
+    color: blue;
+}
+
+
+.new{
+    font-style: italic;
+}
+
+#oblock{ 
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+}
+
+#vip{
+    background-color:bisque;
+    margin: 80px;
+    padding: 40px;
+    border-radius: 20px;
+    color:blue;
+}
+
+#vip  h3{
+    color: brown;
+}
+
+#vip :hover{
+    background-color: crimson;
+    color: chocolate;
+}
+
+
+
+#Surprises{
+    display: flex;
+    gap: 20px;
+}
+
+#courses{
+    display: flex;
+}
+
+
+
+
+
+
